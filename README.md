@@ -4,7 +4,7 @@ This repository contains my pairs trading project, where I explore the concept a
 
 ## Data
 
-The data used in this project consists of the daily closing prices of 30 stocks from the Egyptian Exchange (EGX) from January 2018 to July 2023. The data was obtained from Investing.com, The tickers of the stocks are listed in the file `tickers.csv`.
+The data used in this project consists of the daily closing prices of 30 stocks from the Egyptian Exchange (EGX) from January 2018 to July 2023. The data was obtained from Investing.com, The tickers of the stocks are listed in the file `Tickers`.
 
 ## Methodology
 
