@@ -14,7 +14,7 @@ The main steps of the project are as follows:
 - Finding the optimal pairs of stocks using the minimum distance approach, which minimizes the sum of squared deviations between the normalized prices of each pair.
 - Testing the cointegration of each pair using the augmented Dickey-Fuller (ADF) test and the Johansen test.
 - Developing a trading strategy based on the z-score of the spread between each pair, which indicates the deviation from the long-term equilibrium.
-- Evaluating the performance of the strategy using various metrics, such as cumulative returns, Sharpe ratio, maximum drawdown, and hit ratio.
+
 
 ## References
 
@@ -28,4 +28,5 @@ The project is based on the ideas and methods from the following books:
 The project is still a work in progress, and I plan to add more features and improvements in the future. Some of the planned tasks are:
 
 - Developing a more professional and robust statistical arbitrage strategy that incorporates more factors, such as transaction costs, market impact, risk management, and portfolio optimization.
+- Evaluating the performance of the strategy using various metrics, such as cumulative returns, Sharpe ratio, maximum drawdown, and hit ratio.
 - Applying the strategy to other markets and asset classes, such as forex, commodities, and cryptocurrencies.
