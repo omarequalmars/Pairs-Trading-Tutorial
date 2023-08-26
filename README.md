@@ -27,6 +27,5 @@ The project is based on the ideas and methods from the following books:
 
 The project is still a work in progress, and I plan to add more features and improvements in the future. Some of the planned tasks are:
 
-- Creating a tutorial notebook that explains the concept and pitfalls of pairs trading in a beginner-friendly way.
 - Developing a more professional and robust statistical arbitrage strategy that incorporates more factors, such as transaction costs, market impact, risk management, and portfolio optimization.
 - Applying the strategy to other markets and asset classes, such as forex, commodities, and cryptocurrencies.
